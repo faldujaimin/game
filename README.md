@@ -274,6 +274,6 @@ Built using:
 
 ---
 
-## 📜 License
+##  License
 
 This repository is intended for evaluation purposes as part of a hiring challenge.
